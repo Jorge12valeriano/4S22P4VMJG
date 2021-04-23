@@ -8,7 +8,7 @@ package g4s22p4hrlfe;
 
 /**
  *
- * @author Ana Cecilia
+ * 
  */
 public class FRMPrincipal extends javax.swing.JFrame {
 
